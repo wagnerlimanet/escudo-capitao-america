@@ -1,0 +1,42 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    }
+
+    header {
+        height: 60px;
+        background: #ccc;
+        display: flex;
+        align-items: center;
+        }
+
+        #logo {
+            width: 20%;
+            }
+
+        #menu {
+            width: 80%;
+            }
+
+    #main {
+        height: 400px;
+        background: #f60;
+        position: relative;
+        }
+
+        #main #content-absolute {
+            position: absolute;
+            z-index: 1;
+            width: 50%;
+            top: 150px;
+            background: #000;
+            border-radius: 0px 25px 25px 0px;
+            height: 100px;
+            }
+
+        #main #banner-main {
+            width: 60%;
+            float: right;
+            height: 400px;
+            background: #f00;
+            }
