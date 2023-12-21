@@ -1,0 +1,151 @@
+/*
+    » Wagner Lima | www.wagnerlima.net | @wagnerlimaNET «
+    Professor de desenvolvimento web e design na escola iwtraining, especialista em mecanismos de 
+    buscas (SEO) e graduando em Sistemas e Mídias Digitais na Universidade Federal do Ceará (UFC).
+*/
+
+body {
+    margin: 10% 0px;
+    display: flex;
+    justify-content: center;
+    background: linear-gradient(129deg, #153390, #147ab4);
+    background-size: 400% 400%;
+    animation: bganimado 10s ease infinite;
+    }
+    
+    @keyframes bganimado {
+        0%{background-position:0% 82%}
+        50%{background-position:100% 19%}
+        100%{background-position:0% 82%}
+        }
+
+    /* início das cores */
+    .vermelho {
+        background: #b60202;
+        background: rgb(71,71,71);
+        background: linear-gradient(145deg, 
+                    rgba(71,71,71,1) 0%, 
+                    rgba(255,0,0,1) 35%, 
+                    rgba(255,255,255,1) 41%, 
+                    rgba(215,7,7,1) 47%, 
+                    rgba(36,36,36,1) 100%); 
+        }
+
+    .branco {
+        background: #fff;
+        background: rgb(217,217,217);
+        background: linear-gradient(145deg, 
+                    rgba(217,217,217,1) 0%, 
+                    rgba(255,255,255,1) 35%, 
+                    rgba(223,223,223,1) 41%, 
+                    rgba(255,255,255,1) 47%, 
+                    rgba(223,223,223,1) 100%); 
+        }
+
+    .azul {
+        background: #0439ad;
+        background: rgb(71,71,71);
+        background: linear-gradient(145deg, 
+                    rgba(71,71,71,1) 0%, 
+                    rgba(0,82,255,1) 25%, 
+                    rgba(255,255,255,1) 41%, 
+                    rgba(7,102,215,1) 55%, 
+                    rgba(36,36,36,1) 100%); 
+        }
+    /* fim das cores */
+
+    /* início dos círculos */
+    .circulos {
+        top: 0px;
+        left: 0px;
+        height: 410px;
+        width: 400px;
+        overflow: hidden;
+        position: relative;
+        border-radius: 100%;
+        }
+
+        .circulo {
+            border-radius: 100%;
+            position: absolute;
+            }
+
+            .primeirocirculo {
+                top: 0px;
+                left: 10px;
+                height: 400px;
+                width: 400px;
+                z-index: 1;
+                }
+
+            .segundocirculo {
+                top: 28px;
+                left: 22px;
+                height: 350px;
+                width: 350px;
+                z-index: 2;
+                position: absolute;
+                }
+
+            .terceirocirculo {
+                top: 60px;
+                left: 52px;
+                height: 290px;
+                width: 290px;
+                z-index: 3;
+                }
+
+            .quartocirculo {
+                top: 97px;
+                left: 92px;
+                height: 210px;
+                width: 210px;
+                z-index: 4;
+                }
+    /* fim dos círculos */
+
+    /* início da estrela */
+    .estrela {
+        top:160px;
+        left:100px;
+        position: absolute;
+        display: block;
+        color: white;
+        width: 0px;
+        height: 0px;
+        border-right: 100px solid transparent;
+        border-bottom: 70px solid white;
+        border-left: 100px solid transparent;
+        transform: rotate(35deg);
+        z-index: 5;
+        }
+
+        .estrela:before {
+            top: -45px;
+            left: -65px;
+            position: absolute;
+            width: 0px;
+            height: 0px;
+            border-bottom: 80px solid white;
+            border-left: 30px solid transparent;
+            border-right: 30px solid transparent;
+            display: block;
+            content: '';
+            transform: rotate(-35deg);
+            }
+
+        .estrela:after {
+            position: absolute;
+            display: block;
+            color: white;
+            top: 3px;
+            left: -105px;
+            width: 0px;
+            height: 0px;
+            border-right: 100px solid transparent;
+            border-bottom: 70px solid white;
+            border-left: 100px solid transparent;
+            transform: rotate(-70deg);
+            content: '';
+            }
+    /* fim da estrela */
