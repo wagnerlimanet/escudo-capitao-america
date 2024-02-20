@@ -35,11 +35,11 @@ Com 20 anos de experiência em sala de aula, adquiri habilidades e conhecimentos
 ![Express.js](https://img.shields.io/badge/-ExpressJS-000?style=for-the-badge&logo=express)-->
 
 #### Design
-![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-000?style=for-the-badge&logo=Adobe%20Illustrator&logoColor=orange)
-![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Premiere%20Pro-000?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=cian)
-![Adobe Lightroom](https://img.shields.io/badge/-Adobe%20Lightroom-000?style=for-the-badge&logo=adobe%20lightroom)
-![Adobe InDesign](https://img.shields.io/badge/Adobe%20Indesign-000?style=for-the-badge&logo=Adobe%20Indesign&logoColor=pink)
-![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-000?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=violet)
+![Adobe Illustrator](https://img.shields.io/badge/Illustrator-000?style=for-the-badge&logo=Adobe%20Illustrator&logoColor=orange)
+![Adobe Photoshop](https://img.shields.io/badge/Photoshop-000?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=cian)
+![Adobe Lightroom](https://img.shields.io/badge/Lightroom-000?style=for-the-badge&logo=adobe%20lightroom)
+![Adobe InDesign](https://img.shields.io/badge/Indesign-000?style=for-the-badge&logo=Adobe%20Indesign&logoColor=pink)
+![Adobe Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-000?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=violet)
 ![Canva](https://img.shields.io/badge/-Canva-000?style=for-the-badge&logo=canva)
 ![Figma](https://img.shields.io/badge/-Figma-000?style=for-the-badge&logo=figma)
 
