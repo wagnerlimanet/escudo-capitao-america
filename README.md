@@ -18,7 +18,7 @@ Com 20 anos de experiência em sala de aula, adquiri habilidades e conhecimentos
 ## Minhas Skills 💻
 #### Desenvolvimento
 ![HTML5](https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-000?style=for-the-badge&logo=css3&logoColor=cian)
+![CSS3](https://img.shields.io/badge/-CSS3-000?style=for-the-badge&logo=css3&logoColor=MediumSlateBlue)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?style=for-the-badge&logo=bootstrap)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?style=for-the-badge&logo=tailwind-css)
 ![Wordpress](https://img.shields.io/badge/-Wordpress-000?style=for-the-badge&logo=wordpress)
@@ -38,8 +38,8 @@ Com 20 anos de experiência em sala de aula, adquiri habilidades e conhecimentos
 ![Adobe Illustrator](https://img.shields.io/badge/Illustrator-000?style=for-the-badge&logo=Adobe%20Illustrator&logoColor=orange)
 ![Adobe Photoshop](https://img.shields.io/badge/Photoshop-000?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=cian)
 ![Adobe Lightroom](https://img.shields.io/badge/Lightroom-000?style=for-the-badge&logo=adobe%20lightroom)
-![Adobe InDesign](https://img.shields.io/badge/Indesign-000?style=for-the-badge&logo=Adobe%20Indesign&logoColor=pink)
-![Adobe Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-000?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=violet)
+![Adobe InDesign](https://img.shields.io/badge/Indesign-000?style=for-the-badge&logo=Adobe%20Indesign&logoColor=MediumVioletRed)
+![Adobe Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-000?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=Fuchsia)
 ![Canva](https://img.shields.io/badge/-Canva-000?style=for-the-badge&logo=canva)
 ![Figma](https://img.shields.io/badge/-Figma-000?style=for-the-badge&logo=figma)
 
