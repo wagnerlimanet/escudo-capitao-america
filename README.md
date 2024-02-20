@@ -1,3 +1,11 @@
+<h1 align="center">
+	Wagner Lima
+	<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
+ 	<img src="https://komarev.com/ghpvc/?username=yashitanamdeo&label=Profile%20Views&color=0e75b6&style=flat" align='right' alt="yashitanamdeo" />
+  <img src="https://gpvc.arturio.dev/yashitanamdeo" alt="Profile views" align='right'/> <a href="https://github.com/yashitanamdeo/yashitanamdeo/"> </a> update 
+
+<br/>
+
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
 	  <img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45">
@@ -96,22 +104,6 @@ Eu sou professor, sou designer, sou desenvolvedor.
 
 <br/>
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
-
-<p align="center">
-<a href="https://unis434.github.io/Personal_Resume/index.html"><img alt="Website" src="https://img.shields.io/badge/Website-Personal_Resume-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in//"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Unisa%20Kamara-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/unis_k/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Unis_k-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:unisk434@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-unisk434@gmail.com-blue?style=flat-square&logo=gmail"></a>
-</p>
-
-<h1 align="center">
-Hi, I'm Yashita Namdeo!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
- <img src="https://komarev.com/ghpvc/?username=yashitanamdeo&label=Profile%20Views&color=0e75b6&style=flat" align='right' alt="yashitanamdeo" />
-<!--  <img src="https://gpvc.arturio.dev/yashitanamdeo" alt="Profile views" align='right'/> <a href="https://github.com/yashitanamdeo/yashitanamdeo/"> </a> update  -->
-
-<br/>
 
 
 
