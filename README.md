@@ -11,7 +11,7 @@
 <hr />
 
 <samp>
-Eu sou professor, sou designer, sou desenvolvedor.
+Com 20 anos de experiência em sala de aula, adquiri habilidades e conhecimentos necessários para tornar o aprendizado ainda mais fácil; ministrando aulas nas áreas de design, marketing digital, otimização de sites e desenvolvimento web.
 </samp>
 
 
