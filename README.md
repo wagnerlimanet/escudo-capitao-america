@@ -43,10 +43,10 @@ Com 20 anos de experiência em sala de aula, adquiri habilidades e conhecimentos
 ![Canva](https://img.shields.io/badge/-Canva-000?style=for-the-badge&logo=canva)
 ![Figma](https://img.shields.io/badge/-Figma-000?style=for-the-badge&logo=figma)
 
-## 📊 Status do Github
+## Estatisticas do Github 📊
 
 <details> 
-  <summary>💻 Perfil</summary>
+  <summary>💻 Métricas do Perfil/Projetos</summary>
   <br/>
     <a href="https://github.com/wagnerlimanet/github-readme-stats"><img alt="Wagner Lima Github Stats" src="https://github-readme-stats.vercel.app/api?username=wagnerlimanet&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
   <a href="https://github.com/wagnerlimanet/github-readme-stats"><img alt="Wagner Lima Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wagnerlimanet&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
@@ -61,5 +61,5 @@ Com 20 anos de experiência em sala de aula, adquiri habilidades e conhecimentos
   <br/>
 </details>
 
-<p align="center"><img src="https://profile-counter.glitch.me/{wagnerlimanet}/count.svg" alt="Pushpesh Kamal :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{wagnerlimanet}/count.svg" alt="Wagner Lima :: Contador de Visitas" /></p>
 
