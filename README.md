@@ -21,7 +21,7 @@ Com 20 anos de experiência em sala de aula, adquiri habilidades e conhecimentos
 ![CSS3](https://img.shields.io/badge/-CSS3-000?style=for-the-badge&logo=css3&logoColor=MediumSlateBlue)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?style=for-the-badge&logo=bootstrap)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?style=for-the-badge&logo=tailwind-css)
-![Wordpress](https://img.shields.io/badge/-Wordpress-000?style=for-the-badge&logo=wordpress)
+![Wordpress](https://img.shields.io/badge/-Wordpress-000?style=for-the-badge&logo=Wordpress&logoColor=cian)
 
 #### Repositório
 ![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)
