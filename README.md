@@ -48,6 +48,13 @@ Com 20 anos de experiência em sala de aula, adquiri habilidades e conhecimentos
 
 ## Estatisticas do Github 📊
 
+<details>
+  <summary>⚡ Atividades Recentes</summary>
+  <br/>
+  <a href="https://github.com/wagnerlimanet/github-readme-activity-graph"><img alt="Wagner Lima Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=wagnerlimanet&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+  <br/>
+</details>
+
 <details> 
   <summary>💻 Métricas do Perfil/Projetos</summary>
   <br/>
@@ -55,13 +62,6 @@ Com 20 anos de experiência em sala de aula, adquiri habilidades e conhecimentos
   <a href="https://github.com/wagnerlimanet/github-readme-stats"><img alt="Wagner Lima Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wagnerlimanet&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
   <br/>
   <b>Nota:</b> As principais linguagens são apenas uma métrica das linguagens usadas nos projetos que foram publicados, não implicando diretamente na minha experiência e/ou nível de habilidade.
-</details>
-
-<details>
-  <summary>⚡ Atividades Recentes</summary>
-  <br/>
-  <a href="https://github.com/wagnerlimanet/github-readme-activity-graph"><img alt="Wagner Lima Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=wagnerlimanet&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-  <br/>
 </details>
 
 <p align="center"><img src="https://profile-counter.glitch.me/{wagnerlimanet}/count.svg" alt="Wagner Lima :: Contador de Visitas" /></p>
