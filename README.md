@@ -43,27 +43,23 @@ Com 20 anos de experiência em sala de aula, adquiri habilidades e conhecimentos
 ![Canva](https://img.shields.io/badge/-Canva-000?style=for-the-badge&logo=canva)
 ![Figma](https://img.shields.io/badge/-Figma-000?style=for-the-badge&logo=figma)
 
-## 📊 Github Stats
+## 📊 Status do Github
 
-<!-- https://github.com/anuraghazra/github-readme-stats -->
 <details> 
-  <summary>💻 GitHub Profile Stats</summary>
+  <summary>💻 Perfil</summary>
   <br/>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Yashita's Github Stats" src="https://github-readme-stats.vercel.app/api?username=yashitanamdeo&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Yashita's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashitanamdeo&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+    <a href="https://github.com/wagnerlimanet/github-readme-stats"><img alt="Wagner Lima Github Stats" src="https://github-readme-stats.vercel.app/api?username=wagnerlimanet&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+  <a href="https://github.com/wagnerlimanet/github-readme-stats"><img alt="Wagner Lima Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wagnerlimanet&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
   <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  <b>Nota:</b> As principais linguagens são apenas uma métrica das linguagens usadas nos projetos que foram publicados, não implicando diretamente na minha experiência e/ou nível de habilidade.
 </details>
 
-<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 <details>
-  <summary>⚡ Recent GitHub Activity</summary>
+  <summary>⚡ Atividades Recentes</summary>
   <br/>
-<!-- 	[![Yashita's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yashitanamdeo)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
-   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Yashita's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=wagnerlimanet&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+  <a href="https://github.com/wagnerlimanet/github-readme-activity-graph"><img alt="Wagner Lima Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=wagnerlimanet&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
   <br/>
 </details>
 
-
- <p align="center"><img src="https://profile-counter.glitch.me/{wagnerlimanet}/count.svg" alt="Pushpesh Kamal :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{wagnerlimanet}/count.svg" alt="Pushpesh Kamal :: Visitor's Count" /></p>
 
