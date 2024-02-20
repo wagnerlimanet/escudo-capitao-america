@@ -64,5 +64,6 @@ Com 20 anos de experiência em sala de aula, adquiri habilidades e conhecimentos
   <b>Nota:</b> As principais linguagens são apenas uma métrica das linguagens usadas nos projetos que foram publicados, não implicando diretamente na minha experiência e/ou nível de habilidade.
 </details>
 
-<p align="center"><img src="https://profile-counter.glitch.me/{wagnerlimanet}/count.svg" alt="Wagner Lima :: Contador de Visitas" /></p>
-
+<p align="right">
+	<img src="https://profile-counter.glitch.me/{wagnerlimanet}/count.svg&bg_color=1F222E&title_color=F85D7F" alt="Wagner Lima :: Contador de Visitas" />
+</p>
