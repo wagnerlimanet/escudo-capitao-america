@@ -29,6 +29,6 @@
 ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wagnerlimanet&show_icons=true&hide_border=false&theme=jolly&count_private=true&include_all_commits=true&layout=compact)
 
 
-<!-- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=pushpeshkamal&show_icons=true&theme=tokyonight" alt="Pushpesh Kamal :: Profile Stats" /></p>-->
- <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pushpeshkamal&theme=tokyonight&layout=compact" alt="Pushpesh Kamal :: Top language" /></p>
- <p align="center"><img src="https://profile-counter.glitch.me/{pushpeshkamal}/count.svg" alt="Pushpesh Kamal :: Visitor's Count" /></p>
+ <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=wagnerlimanet&show_icons=true&theme=tokyonight" alt="Pushpesh Kamal :: Profile Stats" /></p>
+ <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wagnerlimanet&theme=tokyonight&layout=compact" alt="Pushpesh Kamal :: Top language" /></p>
+ <p align="center"><img src="https://profile-counter.glitch.me/{wagnerlimanet}/count.svg" alt="Pushpesh Kamal :: Visitor's Count" /></p>
